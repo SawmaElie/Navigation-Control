@@ -1,0 +1,60 @@
+﻿  Navigation Control.cpp
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4Position.h(86,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4Position.h(123,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4RobotInfo.h(171,43): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4RobotInfo.h(208,43): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4McData.h(100,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4McData.h(137,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4McData.h(176,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4McData.h(213,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4MapList.h(67,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Program Files\REC GmbH\robotino\api2\include\rec\robotino\api2\Factory4MapList.h(114,25): warning C4018: '<': signed/unsigned mismatch
+  (compiling source file 'Navigation%20Control.cpp')
+  
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(13,9): warning C4005: 'PI': macro redefinition
+      C:\Users\M.M\Desktop\Navigation Control\Navigation Control\header.h(7,9):
+      see previous definition of 'PI'
+  
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(15,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(39,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(40,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(41,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(42,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,66): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,66): warning C4244:         with
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,66): warning C4244:         [
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,66): warning C4244:             _Tp=int
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,66): warning C4244:         ]
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,37): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,37): warning C4244:         with
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,37): warning C4244:         [
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,37): warning C4244:             _Tp=int
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(51,37): warning C4244:         ]
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(68,59): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(87,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(101,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(102,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(107,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(107,51): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(110,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(111,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(112,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Navigation Control.vcxproj -> C:\Users\M.M\Desktop\Navigation Control\Navigation Control\x64\Debug\Navigation Control.exe

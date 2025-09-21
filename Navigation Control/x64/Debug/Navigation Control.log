@@ -1,0 +1,10 @@
+﻿  Navigation Control.cpp
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(86,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(192,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(193,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(213,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(250,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(251,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(333,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\M.M\Desktop\Navigation Control\Navigation Control\Navigation Control.cpp(334,37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Navigation Control.vcxproj -> C:\Users\M.M\Desktop\Navigation Control\x64\Debug\Navigation Control.exe
